@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Soshdh/SonuSharma/blob/main/profile.jpeg" alt="Sonu" width="220" style="border-radius: 12px;" />
-</p>
-
 # 👋 Hi, I'm Sonu (Soshdh) 🌸💻🚀🎨
 
 🚀 **Flutter Developer | Mobile App Enthusiast**  
